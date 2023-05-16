@@ -16,7 +16,7 @@ const Heading = (props: Props) => {
       <h1
         className={`animate-text bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-transparent ${zigfont.className} text-center font-extrabold pt-2 sm:pt-10 tracking-[15px] text-3xl md:text-7xl z-20 text-[#9ca3af] `}
       >
-        Spiritual GPT
+        Spirit GPT5
       </h1>
     </motion.div>
   );
